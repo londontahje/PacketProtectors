@@ -1,2 +1,4 @@
 # PacketProtectors
-MITM Project for IT359 
+MITM Project
+## Creators
+Keira McGinty and London Morris
